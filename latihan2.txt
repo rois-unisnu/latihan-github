@@ -1,0 +1,3 @@
+ini adalah file latihan2.txt
+
+dibuat untuk latihan menggunakan github branch
