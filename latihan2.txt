@@ -1,0 +1,5 @@
+ini adalah file latihan2.txt
+
+dibuat untuk latihan menggunakan github branch
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non nunc lobortis, hendrerit turpis vel, bibendum sapien. Nulla sagittis felis nec purus consectetur pellentesque. Duis erat nulla, sollicitudin in dolor ultrices, placerat facilisis mauris. Aenean nec massa pellentesque, rhoncus est eget, elementum mauris. Aliquam maximus quam sit amet quam vestibulum rutrum sit amet ac nibh. Donec in lorem non mauris lobortis dictum. Vestibulum viverra nunc est, vel suscipit felis pulvinar eget. Nulla in tristique augue. Donec vehicula tempus ipsum, vitae ullamcorper lectus interdum nec. Curabitur volutpat ut mauris sagittis viverra. Praesent quis leo eleifend, tempus quam imperdiet, scelerisque elit.
